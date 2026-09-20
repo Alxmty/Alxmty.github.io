@@ -81,8 +81,7 @@ header {
 .hero {
   height: 80vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), 
-              url("") center/cover no-repeat;
-  display: flex;
+  url('https://www.ford.mx/content/ford/mx/es_mx/home/performance/raptor/ranger/2026/jcr:content/par/brandgallery/image2/image.imgs.480.high.jpg/1758827622544.jpg') center/cover no-repeat;  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
